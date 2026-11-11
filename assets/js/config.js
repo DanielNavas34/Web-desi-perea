@@ -3,8 +3,8 @@
  */
 export const config = {
   site: {
-    basePath: "",
-    canonicalUrl: "https://www.ejemplo-desiperea.com",
+    basePath: "/Web-desi-perea",
+    canonicalUrl: "https://danielnavas34.github.io/Web-desi-perea",
     lang: "es",
     name: "Desi Perea",
   },

@@ -1,11 +1,11 @@
-# Portfolio — Desi Perea
+﻿# Portfolio — Desi Perea
 
 Web estática profesional para la creadora [@desiperea99](https://www.instagram.com/desiperea99/). Pensada para GitHub Pages y dominio personalizado, sin backend.
 
 ## Estado actual
 
 - Contenido en modo **placeholder** (imágenes demo, bio provisional, sin estadísticas inventadas).
-- Dominio canónico de ejemplo: `https://www.ejemplo-desiperea.com` — **sustituir antes de producción**.
+- URL publicada: `https://danielnavas34.github.io/Web-desi-perea/` (actualizar al pasar a dominio propio).
 
 ## Estructura
 

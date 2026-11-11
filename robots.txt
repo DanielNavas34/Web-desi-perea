@@ -1,8 +1,8 @@
-# https://www.ejemplo-desiperea.com/robots.txt
+﻿# https://danielnavas34.github.io/Web-desi-perea/robots.txt
 User-agent: *
 Allow: /
 
 # Páginas legales disponibles si se solicitan; no bloqueadas
 Allow: /legal/
 
-Sitemap: https://www.ejemplo-desiperea.com/sitemap.xml
+Sitemap: https://danielnavas34.github.io/Web-desi-perea/sitemap.xml
