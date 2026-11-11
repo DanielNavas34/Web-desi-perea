@@ -145,7 +145,7 @@ export function initGallery(data, siteConfig) {
       viewport?.classList.add("gallery-rail__viewport--auto");
       if (scrollHint) {
         scrollHint.hidden = false;
-        scrollHint.textContent = "Se mueve sola · arrastra para moverla · pulsa para ampliar";
+        scrollHint.textContent = "Arrastra para moverla · pulsa para ampliar";
       }
     } else {
       grid.classList.add("gallery-grid--rail", "gallery-grid--manual");
