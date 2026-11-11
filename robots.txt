@@ -1,0 +1,8 @@
+# https://www.ejemplo-desiperea.com/robots.txt
+User-agent: *
+Allow: /
+
+# Páginas legales disponibles si se solicitan; no bloqueadas
+Allow: /legal/
+
+Sitemap: https://www.ejemplo-desiperea.com/sitemap.xml

@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+
+# Documentación interna (no publicar)
+docs/
+
+# Informes locales de auditoría (no publicar)
+lighthouse*.json
+lighthouse*.html
+lighthouse-report.*

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Imagen de galer�a demo">
+  <rect width="800" height="600" fill="#F0EBE3"/>
+  <rect x="40" y="40" width="720" height="520" fill="none" stroke="#E5DFD6" stroke-width="2"/>
+  <text x="400" y="300" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#6B6560">Galer�a demo</text>
+</svg>

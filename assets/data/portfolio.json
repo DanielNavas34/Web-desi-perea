@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "version": 2,
+    "contentStatus": "cuestionario_cliente",
+    "source": "Cuestionario_Web_Porfolio.pdf",
+    "canvaReference": "https://canva.link/5tkvkrzt75loqjw",
+    "disclaimer": "Textos y estructura según cuestionario de la cliente. Cifras, tarifas, marcas, vídeos y usuario de TikTok solo cuando figuren en datos facilitados."
+  },
+  "profile": {
+    "name": "Desi Perea",
+    "handle": "desiperea99",
+    "niche": "Lifestyle",
+    "tagline": "Lifestyle · creadora de contenido",
+    "heroLead": "Espacio profesional para marcas y agencias: conoce mi contenido lifestyle, mi forma de trabajar y contacta conmigo para explorar colaboraciones.",
+    "about": "Creadora de contenido especializada en lifestyle, gastronomía, belleza, compras, hogar y entretenimiento. Mi contenido combina experiencias, recomendaciones y momentos de mi día a día con una comunicación natural y cercana.\n\nTambién comparto mi experiencia conviviendo con una enfermedad renal crónica, mostrando mi día a día con hemodiálisis domiciliaria y mi espera de un trasplante. Esta combinación de contenido y transparencia me ha permitido construir una comunidad auténtica, comprometida y con una fuerte conexión conmigo.\n\nColaboro con marcas y agencias que encajan con mi estilo y con la confianza que hemos creado entre mi audiencia y yo. Cuido cada pieza para que la integración sea creíble, visualmente cuidada y útil para quien me sigue, sin perder el tono cercano que me define.\n\nEn redes comparto rutinas, descubrimientos y recomendaciones con un enfoque honesto: lo que pruebo, lo que me acompaña en casa y lo que realmente recomendaría. Si quieres conocer mi forma de trabajar o plantear una campaña, puedes escribirme desde la sección de contacto.",
+    "aboutVideo": {
+      "src": "assets/videos/about-desiperea.mp4",
+      "poster": "assets/videos/about-desiperea-poster.jpg",
+      "caption": "Vídeo de presentación"
+    },
+    "instagramUrl": "https://www.instagram.com/desiperea99/",
+    "hasProfessionalPhotos": true,
+    "styleNotes": "Minimalista. Colores pastel: amarillo pastel, beige y blanco.",
+    "heroMedia": {
+      "imageSrc": "assets/images/photos/desiperea-01.webp",
+      "imageFallback": "assets/images/photos/desiperea-01.jpg",
+      "note": "Foto principal del hero en assets/images/photos/."
+    }
+  },
+  "starMoment": {
+    "quote": "Sencillo, auténtico y moderno — colaboraciones que encajan con mi contenido lifestyle.",
+    "attribution": "Desi Perea"
+  },
+  "platforms": [
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "handle": "desiperea99",
+      "url": "https://www.instagram.com/desiperea99/"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "handle": "creoquemellamandesi",
+      "url": "https://www.tiktok.com/@creoquemellamandesi"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "handle": "Creoquemellamandesi",
+      "url": "https://www.youtube.com/@Creoquemellamandesi"
+    }
+  ],
+  "followSection": {
+    "title": "Sígueme",
+    "eyebrow": "Redes",
+    "intro": "Contenido lifestyle en Instagram, TikTok y YouTube."
+  },
+  "stats": [],
+  "platformMetrics": {
+    "verified": true,
+    "intro": "Resumen de rendimiento y audiencia en Instagram y TikTok — datos facilitados por la creadora para marcas y agencias.",
+    "sourceNote": "Cifras según capturas del panel profesional de Instagram y del Centro de creadores de TikTok facilitadas por la clienta.",
+    "insight": "Audiencia mayoritariamente mujer en España, con foco en el tramo 25–44 años — encaje natural con lifestyle, belleza y consumo.",
+    "platforms": {
+      "instagram": {
+        "periodLabel": "Últimos 30 días",
+        "profileUrl": "https://www.instagram.com/desiperea99/",
+        "handle": "desiperea99",
+        "kpis": [
+          {
+            "id": "plays",
+            "label": "Reproducciones",
+            "display": "979.689",
+            "numeric": 979689,
+            "trend": "−37,8 %",
+            "trendDir": "down"
+          },
+          {
+            "id": "followers",
+            "label": "Seguidores",
+            "display": "7.639",
+            "numeric": 7639,
+            "trend": "+15,6 %",
+            "trendDir": "up"
+          },
+          {
+            "id": "reels-reach",
+            "label": "Alcance Reels",
+            "display": "370 K",
+            "numeric": 370000
+          },
+          {
+            "id": "profile-visits",
+            "label": "Visitas al perfil",
+            "display": "15 K",
+            "numeric": 15000
+          }
+        ],
+        "audience": {
+          "gender": [
+            {
+              "label": "Mujeres",
+              "percent": 82.5
+            },
+            {
+              "label": "Hombres",
+              "percent": 17.5
+            }
+          ],
+          "age": [
+            {
+              "label": "25–34",
+              "percent": 37
+            },
+            {
+              "label": "35–44",
+              "percent": 27.2
+            },
+            {
+              "label": "45–54",
+              "percent": 16.4
+            },
+            {
+              "label": "18–24",
+              "percent": 9.7
+            },
+            {
+              "label": "55–64",
+              "percent": 7.2
+            },
+            {
+              "label": "65+",
+              "percent": 2.3
+            }
+          ],
+          "locations": [
+            {
+              "label": "España",
+              "percent": 81.9
+            },
+            {
+              "label": "Brasil",
+              "percent": 6.5
+            },
+            {
+              "label": "Argentina",
+              "percent": 1.6
+            },
+            {
+              "label": "Colombia",
+              "percent": 1
+            },
+            {
+              "label": "Estados Unidos",
+              "percent": 0.7
+            }
+          ],
+          "languages": [
+            {
+              "label": "Español",
+              "percent": 89.3
+            },
+            {
+              "label": "Portugués",
+              "percent": 7.3
+            },
+            {
+              "label": "Inglés",
+              "percent": 0.8
+            },
+            {
+              "label": "Italiano",
+              "percent": 0.6
+            },
+            {
+              "label": "Francés",
+              "percent": 0.6
+            }
+          ]
+        }
+      },
+      "tiktok": {
+        "periodLabel": "Últimos 28 días",
+        "profileUrl": "https://www.tiktok.com/@creoquemellamandesi",
+        "handle": "creoquemellamandesi",
+        "kpis": [
+          {
+            "id": "views",
+            "label": "Visualizaciones de vídeo",
+            "display": "4 M",
+            "numeric": 4000000,
+            "trend": "−63,4 %",
+            "trendDir": "down"
+          },
+          {
+            "id": "likes",
+            "label": "Me gusta",
+            "display": "102,9 K",
+            "numeric": 102900
+          },
+          {
+            "id": "profile-views",
+            "label": "Vistas del perfil",
+            "display": "42,3 K",
+            "numeric": 42300
+          },
+          {
+            "id": "comments",
+            "label": "Comentarios",
+            "display": "3,6 K",
+            "numeric": 3600
+          }
+        ],
+        "audience": {
+          "gender": [
+            {
+              "label": "Mujeres",
+              "percent": 84
+            },
+            {
+              "label": "Hombres",
+              "percent": 14
+            },
+            {
+              "label": "Otro",
+              "percent": 2
+            }
+          ],
+          "age": [
+            {
+              "label": "25–34",
+              "percent": 36.6
+            },
+            {
+              "label": "18–24",
+              "percent": 23
+            },
+            {
+              "label": "35–44",
+              "percent": 18.2
+            },
+            {
+              "label": "45–54",
+              "percent": 14.4
+            },
+            {
+              "label": "55+",
+              "percent": 7.8
+            }
+          ],
+          "locations": [
+            {
+              "label": "España",
+              "percent": 70.6
+            },
+            {
+              "label": "Rumanía",
+              "percent": 16.5
+            },
+            {
+              "label": "México",
+              "percent": 5.3
+            },
+            {
+              "label": "Colombia",
+              "percent": 2.5
+            },
+            {
+              "label": "Perú",
+              "percent": 0.9
+            }
+          ],
+          "activityNote": "Mayor actividad de espectadores los viernes entre las 00:00 y la 01:00 (últimos 7 días)."
+        }
+      }
+    }
+  },
+  "audience": {
+    "headline": "Audiencia",
+    "description": "",
+    "segments": [],
+    "verified": true
+  },
+  "rates": {
+    "title": "Tarifas",
+    "intro": "Tarifas orientativas por formato. Los packs y campañas completas se personalizan según objetivos y alcance.",
+    "footnote": "IVA y condiciones según acuerdo. Para propuestas a medida, escríbeme.",
+    "items": [
+      {
+        "id": "tiktok-video",
+        "name": "Vídeo TikTok",
+        "display": "200€"
+      },
+      {
+        "id": "instagram-reels",
+        "name": "Reels Instagram",
+        "display": "100€"
+      },
+      {
+        "id": "stories",
+        "name": "Stories",
+        "display": "40€"
+      },
+      {
+        "id": "packs",
+        "name": "Consultar packs",
+        "display": "?",
+        "consult": true,
+        "href": "#contacto"
+      }
+    ]
+  },
+  "collaborationsShowcase": {
+    "title": "Colaboraciones",
+    "intro": "Piezas de campaña y contenido patrocinado por plataforma. Pulsa en la carátula para ver el vídeo.",
+    "platforms": {
+      "instagram": [
+        {
+          "id": "ig-primaprix",
+          "title": "Primaprix",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/DT-Yu32iFIp/",
+          "cover": "assets/images/collaborations/primaprik.webp",
+          "coverFallback": "assets/images/collaborations/primaprik.jpg"
+        },
+        {
+          "id": "ig-shark-beauty",
+          "title": "Shark Beauty",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/DdY5-rPocah/",
+          "cover": "assets/images/collaborations/shark-beauty.webp",
+          "coverFallback": "assets/images/collaborations/shark-beauty.jpg"
+        },
+        {
+          "id": "ig-beauty-day",
+          "title": "Beauty Day",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/DNGUmmXosvc/",
+          "cover": "assets/images/collaborations/beauty-day.webp",
+          "coverFallback": "assets/images/collaborations/beauty-day.jpg"
+        },
+        {
+          "id": "ig-escapada-rural",
+          "title": "Escapada rural (AlohaCamp)",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/DWJ9kExiBrk/",
+          "cover": "assets/images/collaborations/escapada-rural.webp",
+          "coverFallback": "assets/images/collaborations/escapada-rural.jpg"
+        },
+        {
+          "id": "ig-mediamarkt",
+          "title": "MediaMarkt",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/DQmNaLRiNkb/",
+          "cover": "assets/images/collaborations/mediamarkt.webp",
+          "coverFallback": "assets/images/collaborations/mediamarkt.jpg"
+        },
+        {
+          "id": "ig-restaurante",
+          "title": "Restaurante asiático",
+          "format": "Reel",
+          "url": "https://www.instagram.com/reel/Dau3f1GoJdq/",
+          "cover": "assets/images/collaborations/restaurante-asiatico.webp",
+          "coverFallback": "assets/images/collaborations/restaurante-asiatico.jpg"
+        }
+      ],
+      "tiktok": [
+        {
+          "id": "tt-freeprints",
+          "title": "Freeprints",
+          "format": "TikTok",
+          "url": "https://vm.tiktok.com/ZN8fQUqVE/",
+          "cover": "assets/images/collaborations/freeprints-app.webp",
+          "coverFallback": "assets/images/collaborations/freeprints-app.jpg"
+        },
+        {
+          "id": "tt-02",
+          "title": "Try on Aloha",
+          "format": "TikTok",
+          "url": "https://vm.tiktok.com/ZN8PknGrf/",
+          "cover": "assets/images/collaborations/tt-02.webp",
+          "coverFallback": "assets/images/collaborations/tt-02.jpg"
+        },
+        {
+          "id": "tt-03",
+          "title": "Haul de Hacoo",
+          "format": "TikTok",
+          "url": "https://vm.tiktok.com/ZN8PBetPw/",
+          "cover": "assets/images/collaborations/tt-03.webp",
+          "coverFallback": "assets/images/collaborations/tt-03.jpg"
+        },
+        {
+          "id": "tt-04",
+          "title": "Aventura Amazonia",
+          "format": "TikTok",
+          "url": "https://vm.tiktok.com/ZN8PkVfvs/",
+          "cover": "assets/images/collaborations/tt-04.webp",
+          "coverFallback": "assets/images/collaborations/tt-04.jpg"
+        }
+      ],
+      "youtube": [
+        {
+          "id": "yt-1",
+          "title": "YouTube",
+          "format": "Vídeo",
+          "url": "https://youtu.be/RlMpdYb4AUI",
+          "cover": "assets/images/collaborations/yt-01.webp",
+          "coverFallback": "assets/images/collaborations/yt-01.jpg"
+        },
+        {
+          "id": "yt-2",
+          "title": "YouTube",
+          "format": "Vídeo",
+          "url": "https://youtu.be/ZkgcD002XWQ",
+          "cover": "assets/images/collaborations/yt-02.webp",
+          "coverFallback": "assets/images/collaborations/yt-02.jpg"
+        },
+        {
+          "id": "yt-3",
+          "title": "YouTube",
+          "format": "Vídeo",
+          "url": "https://youtu.be/6iaBZ64UAEE",
+          "cover": "assets/images/collaborations/yt-03.webp",
+          "coverFallback": "assets/images/collaborations/yt-03.jpg"
+        }
+      ]
+    },
+    "emptyPlatformNote": "Nuevas piezas en esta plataforma próximamente."
+  },
+  "brandsSection": {
+    "title": "Marcas",
+    "intro": "Embajadurías y marcas con las que he colaborado en campañas y contenido de lifestyle.",
+    "ambassadorIntro": "Relación continuada como embajadora de marca.",
+    "collaborationsIntro": "Marcas con las que he trabajado en colaboraciones y campañas.",
+    "collaborationsVideoHint": "Algunas piezas también en la sección Colaboraciones, con vídeos por plataforma.",
+    "collaborationsVideoLinkLabel": "Ver referencias en vídeo",
+    "ambassador": [
+      "Matchaflix",
+      "L'Oréal",
+      "Oh My Goods",
+      "Hawkers",
+      "Primaprix"
+    ],
+    "collaborations": [
+      "Hawkers",
+      "L'Oréal",
+      "Mexifoods",
+      "Firmoo",
+      "Tostarica",
+      "Dogfy Diet",
+      "Wetaca",
+      "Kiehl's",
+      "McDonald's",
+      "Polarbox",
+      "Disfrutabox",
+      "GetBoomba",
+      "Redken",
+      "MediaMarkt",
+      "CeraVe",
+      "Luxeol",
+      "Azada",
+      "SHEIN",
+      "Hacoo",
+      "AlohaCamp",
+      "Shark Ninja",
+      "Dr. Zoo",
+      "The Champion Burger",
+      "Kérastase"
+    ],
+    "dedupeAmbassadorInCollaborations": true,
+    "emptyNote": "Listado pendiente de confirmación y autorización de la cliente para publicar nombres y logotipos."
+  },
+  "servicesProposed": [
+    {
+      "id": "campaigns",
+      "title": "Colaboraciones y campañas",
+      "description": "Colaboraciones remuneradas y campañas publicitarias con marcas que encajen con mi contenido lifestyle.",
+      "confirmed": true
+    }
+  ],
+  "collaborationsNote": "Objetivo del sitio: que las empresas conozcan mi trabajo y contacten fácilmente.",
+  "brands": [],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Lifestyle",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-01.webp",
+      "alt": "Desi Perea — retrato lifestyle",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g2",
+      "title": "Lifestyle",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-02.webp",
+      "alt": "Desi Perea — lifestyle",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g3",
+      "title": "Lifestyle",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-03.webp",
+      "alt": "Desi Perea — contenido lifestyle",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g4",
+      "title": "Contenido",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-04.webp",
+      "alt": "Desi Perea — contenido",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g5",
+      "title": "Contenido",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-05.webp",
+      "alt": "Desi Perea — lifestyle",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g6",
+      "title": "Lifestyle",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-06.webp",
+      "alt": "Desi Perea — moda y lifestyle",
+      "aspect": "portrait"
+    },
+    {
+      "id": "g7",
+      "title": "Lifestyle",
+      "category": "lifestyle",
+      "src": "assets/images/photos/desiperea-07.webp",
+      "alt": "Desi Perea — lifestyle",
+      "aspect": "portrait"
+    }
+  ],
+  "contact": {
+    "email": "desire.perea.g1999@gmail.com",
+    "emailDisplay": "desire.perea.g1999@gmail.com",
+    "ctaLabel": "Enviar propuesta por correo"
+  }
+}
