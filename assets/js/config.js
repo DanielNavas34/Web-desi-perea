@@ -1,9 +1,24 @@
 /**
  * Configuración de despliegue y sitio — edite canonicalUrl y CNAME antes de producción.
  */
+
+/** GitHub Pages usa subruta; Live Server y servidores locales suelen usar la raíz del proyecto. */
+function resolveBasePath() {
+  try {
+    const { hostname, pathname } = globalThis.location;
+    if (hostname === "danielnavas34.github.io") return "/Web-desi-perea";
+    if (pathname === "/Web-desi-perea" || pathname.startsWith("/Web-desi-perea/")) {
+      return "/Web-desi-perea";
+    }
+  } catch {
+    /* sin window (tests) */
+  }
+  return "";
+}
+
 export const config = {
   site: {
-    basePath: "/Web-desi-perea",
+    basePath: resolveBasePath(),
     canonicalUrl: "https://danielnavas34.github.io/Web-desi-perea",
     lang: "es",
     name: "Desi Perea",

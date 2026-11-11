@@ -72,9 +72,7 @@
             "id": "plays",
             "label": "Reproducciones",
             "display": "979.689",
-            "numeric": 979689,
-            "trend": "−37,8 %",
-            "trendDir": "down"
+            "numeric": 979689
           },
           {
             "id": "followers",
@@ -189,9 +187,7 @@
             "id": "views",
             "label": "Visualizaciones de vídeo",
             "display": "4 M",
-            "numeric": 4000000,
-            "trend": "−63,4 %",
-            "trendDir": "down"
+            "numeric": 4000000
           },
           {
             "id": "likes",
@@ -484,7 +480,6 @@
   "gallery": [
     {
       "id": "g1",
-      "title": "Lifestyle",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-01.webp",
       "alt": "Desi Perea — retrato lifestyle",
@@ -492,7 +487,6 @@
     },
     {
       "id": "g2",
-      "title": "Lifestyle",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-02.webp",
       "alt": "Desi Perea — lifestyle",
@@ -500,7 +494,6 @@
     },
     {
       "id": "g3",
-      "title": "Lifestyle",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-03.webp",
       "alt": "Desi Perea — contenido lifestyle",
@@ -508,7 +501,7 @@
     },
     {
       "id": "g4",
-      "title": "Contenido",
+      "title": "Shooting para @azazieofficial",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-04.webp",
       "alt": "Desi Perea — contenido",
@@ -516,7 +509,7 @@
     },
     {
       "id": "g5",
-      "title": "Contenido",
+      "title": "Shooting para @azazieofficial",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-05.webp",
       "alt": "Desi Perea — lifestyle",
@@ -524,7 +517,7 @@
     },
     {
       "id": "g6",
-      "title": "Lifestyle",
+      "title": "Shooting para @azazieofficial",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-06.webp",
       "alt": "Desi Perea — moda y lifestyle",
@@ -532,7 +525,6 @@
     },
     {
       "id": "g7",
-      "title": "Lifestyle",
       "category": "lifestyle",
       "src": "assets/images/photos/desiperea-07.webp",
       "alt": "Desi Perea — lifestyle",
