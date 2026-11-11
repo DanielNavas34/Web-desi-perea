@@ -980,6 +980,13 @@ a:hover {
   width: 100%;
   overflow: hidden;
   border-radius: var(--radius-md);
+  cursor: grab;
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.gallery-rail__viewport.is-dragging {
+  cursor: grabbing;
 }
 
 .gallery-rail__viewport--auto {
@@ -991,44 +998,24 @@ a:hover {
   flex-direction: row;
   align-items: stretch;
   gap: var(--space-md);
-  padding-block: var(--space-xs);
-}
-
-.gallery-grid--manual {
-  overflow-x: auto;
-  overflow-y: hidden;
-  scroll-snap-type: x mandatory;
-  scroll-padding-inline: var(--space-sm);
-  padding-bottom: var(--space-sm);
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: thin;
-}
-
-.gallery-grid--auto {
   width: max-content;
-  overflow: visible;
-  animation: galleryAutoScroll 55s linear infinite;
+  padding-block: var(--space-xs);
   will-change: transform;
 }
 
-.gallery-grid--auto.is-paused,
-.gallery-grid--auto:hover,
-.gallery-grid--auto:focus-within {
-  animation-play-state: paused;
-}
-
-@keyframes galleryAutoScroll {
-  from {
-    transform: translateX(-50%);
-  }
-  to {
-    transform: translateX(0);
-  }
+.gallery-grid--manual,
+.gallery-grid--auto {
+  overflow: visible;
 }
 
 .gallery-grid--rail .gallery-item--rail {
   flex: 0 0 auto;
-  scroll-snap-align: center;
+  cursor: inherit;
+}
+
+.gallery-grid--rail .gallery-item--rail:focus-visible {
+  outline: 2px solid rgb(196 168 118 / 80%);
+  outline-offset: 3px;
 }
 
 .gallery-grid--rail .gallery-item--square {
@@ -1053,11 +1040,8 @@ a:hover {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .gallery-grid--auto {
-    animation: none;
-    width: 100%;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
+  .gallery-rail__viewport--auto {
+    mask-image: none;
   }
 }
 
