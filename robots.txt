@@ -1,8 +1,8 @@
-﻿# https://danielnavas34.github.io/Web-desi-perea/robots.txt
+﻿# https://www.desiperea.es/robots.txt
 User-agent: *
 Allow: /
 
 # Páginas legales disponibles si se solicitan; no bloqueadas
 Allow: /legal/
 
-Sitemap: https://danielnavas34.github.io/Web-desi-perea/sitemap.xml
+Sitemap: https://www.desiperea.es/sitemap.xml

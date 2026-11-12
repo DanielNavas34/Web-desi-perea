@@ -5,7 +5,7 @@ Web estática profesional para la creadora [@desiperea99](https://www.instagram.
 ## Estado actual
 
 - Contenido en modo **placeholder** (imágenes demo, bio provisional, sin estadísticas inventadas).
-- URL publicada: `https://danielnavas34.github.io/Web-desi-perea/` (actualizar al pasar a dominio propio).
+- URL publicada: `https://www.desiperea.es/`
 
 ## Estructura
 

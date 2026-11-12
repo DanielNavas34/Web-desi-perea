@@ -19,7 +19,7 @@ function resolveBasePath() {
 export const config = {
   site: {
     basePath: resolveBasePath(),
-    canonicalUrl: "https://danielnavas34.github.io/Web-desi-perea",
+    canonicalUrl: "https://www.desiperea.es",
     lang: "es",
     name: "Desi Perea",
   },
