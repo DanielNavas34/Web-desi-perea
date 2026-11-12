@@ -280,32 +280,8 @@
   },
   "rates": {
     "title": "Tarifas",
-    "intro": "Tarifas orientativas por formato. Los packs y campañas completas se personalizan según objetivos y alcance.",
-    "footnote": "IVA y condiciones según acuerdo. Para propuestas a medida, escríbeme.",
-    "items": [
-      {
-        "id": "tiktok-video",
-        "name": "Vídeo TikTok",
-        "display": "200€"
-      },
-      {
-        "id": "instagram-reels",
-        "name": "Reels Instagram",
-        "display": "100€"
-      },
-      {
-        "id": "stories",
-        "name": "Stories",
-        "display": "40€"
-      },
-      {
-        "id": "packs",
-        "name": "Consultar packs",
-        "display": "?",
-        "consult": true,
-        "href": "#contacto"
-      }
-    ]
+    "intro": "Tarifas bajo consulta. Precios adaptados al tipo de colaboración, condiciones y necesidades de cada marca. Posibilidad de códigos promocionales personalizados.",
+    "items": []
   },
   "collaborationsShowcase": {
     "title": "Colaboraciones",
